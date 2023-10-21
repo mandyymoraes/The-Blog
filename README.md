@@ -22,5 +22,4 @@ Novos itens podem ser adicionados nesse arquivo seguindo o modelo pré estabelec
 
 ## Preview
 
-<center><img src="the-blog.png"></img><center>
 <center><img src="the-Blog.gif"></img><center>
