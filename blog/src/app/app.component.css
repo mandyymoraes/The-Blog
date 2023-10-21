@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+}
+.header > hr{
+    width: 100%;
+}
+
+.divider{
+    width: 100%;
+}
+ul{
+    text-align: center;
+    margin:20px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+li{
+    margin-right: 10px;
+}
+.footer ul li{
+    margin: 0 20px 0 20px;
+}

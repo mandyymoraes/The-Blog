@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Space Mono';
+    color: white;
+}
+body{
+    background-color: #111;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,36 @@
+.container {
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+}
+
+.card__image {
+    width: 250px;
+    min-width: 250px;
+    margin-top: 5px;
+}
+
+.card__image>img {
+    width: 100%;
+    max-height: 100px;
+    border: 1px solid gray;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card__title {
+    margin-left: 20px;
+    display: flex;
+    margin-top: 20px;
+    font-size: 10px;
+}
